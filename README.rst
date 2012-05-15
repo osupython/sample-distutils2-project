@@ -1,9 +1,10 @@
-Sample Distutils2 Projects
-==========================
+Sample Distutils2 Project
+=========================
 
-This repository includes some sample projects that support distutils2.
-They don't do anything interesting (yet?).
+This repository includes a very basic sample project packaged with
+`packaging`/`distutils2`. It doesn't do anything interesting (yet?).
 
-To install one of the sample projects:
+To install it, you must be using Python 3.3 (which includes `packaging`) or an
+earlier version of Python with the `distutils2`_ project installed.
 
-    $ pysetup install sample_distutils2_projects/sample1
+.. _distutils2: http://pypi.python.org/pypi/Distutils2
